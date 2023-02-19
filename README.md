@@ -1,16 +1,10 @@
 # pomodoro
 
-A new Flutter project.
+Simple pomodoro app.
 
-## Getting Started
+## Build
 
-This project is a starting point for a Flutter application.
+iOS build 확인함
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 학습 자료
+  - [nomad coder Flutter 로 웹툰 앱 만들기](https://nomadcoders.co/flutter-for-beginners/lectures/4178)
