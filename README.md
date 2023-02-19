@@ -12,7 +12,8 @@ Naver webtoon 페이지를 보여주는 앱
 ### 학습 자료와 차이점
   - 웹툰 회차를 화면에 표시할 때
     - ListView를 사용함 (학습 자료에서는 Column으로 구현)
-
+## Build
+iOS build 확인함
 ## 학습 자료
   - [nomad coder Flutter로 웹툰 앱 만들기](https://nomadcoders.co/flutter-for-beginners/lectures/4159)
 
